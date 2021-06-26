@@ -1,0 +1,18 @@
+
+***Se utilizan en postman***
+
+{
+    "name": "Snow",
+    "description": "Skateboarding, skateboarding or colloquially called skateboarding or simply skate, is a sport that consists of sliding on a skateboard and at the same time being able to perform various tricks, most of them raising the board off the ground, doing pirouettes with it in the air."
+}
+
+{
+    "name": "Earth",
+    "description": "BMX is a cycling discipline that is practiced on cross bikes with 20-inch diameter wheels. BMX has two modalities: racing, whose objective is to complete the course in the shortest time possible, and freestyle, whose objective is to perform acrobatic stunts."
+}
+
+
+{
+    "name": "Water",
+    "description": "Surfing is a water sport that consists of making wide turns and maneuvers taking advantage of the force of a wave, on a board."
+}

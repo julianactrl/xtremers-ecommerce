@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "id": 715300614,
+            "nickname": "TESTBUNQIK0W",
+            "password": "qatest2336",
+            "site_status": "active",
+            "email": "test_user_42263783@testuser.com",
+            "created_at": "14/02/21",
+            "type":"Vendedor",
+            "credentials":{
+                "test":{
+                    "access_token":"TEST-7707298399815475-021404-16de206cfde5f1f773802cd6c9884401-715300614",
+                    "public_key":"TEST-be0c424e-fdbe-4c95-8104-c62470150b41"
+                },
+                 "production":{
+                    "access_token": "APP_USR-7707298399815475-021404-0f1c3aad5164deba2c27c28f050ff596-715300614",
+                    "public_key":"APP_USR-6fc40ba7-44f0-4430-bde7-235832f873d2",
+                    "client_id": 7707298399815475,
+                    "client_secret": "u3VDgC8w0FGHQnUjK9taSoJu6hNcQxjB"
+                }
+            }
+        },
+        {
+            "id": 715304848,
+            "nickname": "TESTTUWIJ3VU",
+            "password": "qatest9016",
+            "site_status": "active",
+            "email": "test_user_24797420@testuser.com",
+            "created_at": "14/02/21",
+            "type":"Comprador"
+        }
+    
+    ]
+}

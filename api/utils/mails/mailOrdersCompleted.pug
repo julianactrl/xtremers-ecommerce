@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X-tremers Sports</title>
+</head>
+<body>
+    <h1><%= msj.appreciate %></h1>
+    <p><%= msj.text %></p>
+    <ul>
+        <% data.orderlines.map((orderline) => { %>
+            <li><%= orderline.product.name %></li>
+        <% }) %>
+    </ul>
+    <% if(userId !== 1) {%>
+        <%= msj.reviewText %>
+    <% } %>
+    <p><%= msj.slogan %></p>
+    <p> X-tremers Sports</p>
+</body>
+</html>
+
+			
+	
+		

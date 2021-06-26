@@ -1,0 +1,28 @@
+NIEVE
+   Snowboard
+   Sky
+
+AGUA 
+   Kayak
+   Rafting
+   Surf
+   Buceo
+   Windsurf
+
+AIRE
+   Parapente
+   Paracaídas
+   
+
+MONTAÑA
+   Trekking
+   Mountain Bike
+   Senderismo
+      
+
+CIUDAD
+   Rollers
+   Patineta
+   Bicicleta
+   BMX
+   Scooter

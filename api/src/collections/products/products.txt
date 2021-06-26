@@ -1,0 +1,38 @@
+***Se utiliza en postman***
+***Primer producto corresponde a la categoría BMX***
+***Segundo producto corresponde a la categoría Skateboarding***
+***Tercer producto corresponde a la categoria Surf
+
+{
+    "name": "Subrosa Salvador",
+    "description": "The Salvador line has all kinds of options to fit your riding needs exactly. Choose from the standard Salvador, the Salvador XL or the Salvador FC and enjoy every session without worrying if your bike will hold up. Every Salvador is designed to fight, with upgraded pro-level geometry and even more aftermarket parts from The Shadow Conspiracy and Rant.",
+    "price": 89.9,
+    "stock": 15,
+    "rating": 4,
+    "thumbnail": "/images/skate.png",
+    "size": 8.5
+}
+
+{
+    
+    "name": "Polar Boserio Limo Deck | Polar Skate C.O",
+    "description": "Forget about those wooden limos and pick yourself up the Polar Boserio Limo Deck 8.25 x 31.875. This is a pro quality skateboard deck constructed from traditional 7-ply maple wood with background stains that could be different. FREE griptape is available with the purchase of the deck",
+    "price": 99.9,
+    "stock": 35,
+    "rating": 4,
+    "thumbnail": "/images/skate.png",
+    "size": 7.5
+
+}
+
+{
+    
+    "name": "Ghetto Cat JS Round Tail PU",
+    "description": "From aggressive cuts to relaxed lines, you have the best of both worlds combined in one incredibly fast board: the Ghetto Cat. This is a complete crossover model, designed for all types of surfers in all types of conditions.",
+    "price": 250,
+    "stock": 5,
+    "rating": 3,
+    "thumbnail": "/images/surf.png",
+    "size": 5.9
+
+}
